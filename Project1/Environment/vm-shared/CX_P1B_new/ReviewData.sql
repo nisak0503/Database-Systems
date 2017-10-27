@@ -1,0 +1,10 @@
+INSERT INTO Review(name, time, mid, rating, comment) 
+VALUES ('douxin', '2017-10-26 17:38:47', '5', '5', 'sjj');
+INSERT INTO Review(name, time, mid, rating, comment) 
+VALUES ('asdfhkjdsah', '2017-10-26 18:57:22', '3', '4', 'ajsdhfkjsdah');
+INSERT INTO Review(name, time, mid, rating, comment) 
+VALUES ('A', '2017-10-26 22:11:14', '2', '5', 'AAA');
+INSERT INTO Review(name, time, mid, rating, comment) 
+VALUES ('B', '2017-10-26 22:11:57', '2', '4', 'BBB');
+INSERT INTO Review(name, time, mid, rating, comment) 
+VALUES ('C', '2017-10-26 22:12:12', '2', '3', 'CCC');
